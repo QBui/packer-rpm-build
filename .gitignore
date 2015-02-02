@@ -1,0 +1,4 @@
+*.zip
+*.rpm
+usr/
+.*.swp
